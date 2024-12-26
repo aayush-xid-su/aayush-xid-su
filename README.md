@@ -11,7 +11,7 @@
 
 - 👨‍💻 Visit my portfolio at [ayush11profile](https://ayush11profile.netlify.app/)
 
-- 📫 How to reach me **aayyushxidsu.11am@gmail.com**
+- 📫 How to reach me **aayushxidsu.11am@gmail.com**
 
 - ⚡ Fun fact **I'm a boy playing with codes.**
 
