@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aayushxidsu.11am@gmail.com**
 
-- ⚡ Fun fact **I'm a boy playing with codes.**
+- ⚡ About me **I'm a boy playing with codes.**
 
 
 <h3 align="left">Connect with me:</h3>
