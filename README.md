@@ -19,9 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://codepen.io/aayush_xid_su" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aayush_xid_su" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/ayushdas-11am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushdas-11am" height="30" width="40" /></a>
-<a href="https://instagram.com/aayush_xid_su" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayush" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/ayushxidsu" target="blank"><img align="center" src="/assets/hackerrank.svg" alt="https://www.hackerrank.com/profile/ayushxidsu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayushdas-11am" target="blank"><img align="center" src="/assets/linked-in-alt.svg" alt="ayushdas-11am" height="30" width="40" /></a>
+<a href="https://instagram.com/aayush_xid_su" target="blank"><img align="center" src="/assets/instagram.svg" alt="aayush" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ayushxidsu" target="blank"><img align="center" src="/assets/hackerrank.svg" alt="ayushxidsu" height="30" width="40" /></a>
 <a href="https://t.me/Xidotic" target="blank"><img align="center" src="/assets/telegram.png" alt="ayush telegram" height="30" width="40" /></a>
 </p>
 
