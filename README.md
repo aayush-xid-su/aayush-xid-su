@@ -522,8 +522,6 @@ An intelligent vision assistant integrating OCR, object detection, speech synthe
 
 </div>
 
-> **Note:** Enable the GitHub Action that generates the snake animation after creating your profile repository.
-
 ---
 
 # Development Metrics
