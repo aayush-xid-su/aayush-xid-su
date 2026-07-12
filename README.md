@@ -20,9 +20,9 @@
 <img src="https://img.shields.io/badge/MCA-Cybersecurity%20(Aspiring)-5B21B6?style=for-the-badge&logo=academia&logoColor=white"/>
 </a>
 
-<a href="#">
+<!-- <a href="#">
 <img src="https://img.shields.io/badge/CGPA-8.2-4F46E5?style=for-the-badge"/>
-</a>
+</a> -->
 
 <a href="#">
 <img src="https://img.shields.io/badge/Research-Cyber%20Attack%20Prediction-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white"/>
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<a href="<YOUR_PORTFOLIO_URL>">
+<a href="https://ayushdas11.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -597,7 +597,7 @@ open_to:
 
 <br><br>
 
-<a href="<YOUR_LINKEDIN_URL>">
+<a href="https://www.linkedin.com/in/ayushdas-11am">
 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
@@ -609,7 +609,7 @@ open_to:
 
 </a>
 
-<a href="<YOUR_PORTFOLIO_URL>">
+<a href="https://ayushdas11.vercel.app/">
 
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 
