@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5B21B6,30:6D28D9,60:7C3AED,100:4F46E5&text=Ayush%20Das&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5B21B6,30:6D28D9,60:7C3AED,100:4F46E5&text=Ayush%20Das&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Red%20Teaming&descAlignY=60&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=850&lines=Cybersecurity+Engineer;AI+%26+Machine+Learning+Developer;Full+Stack+Developer;Ethical+Hacking+%7C+OSINT+%7C+Penetration+Testing;Building+Secure+and+Intelligent+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=850&lines=Cybersecurity+Engineer;AI+%26+Machine+Learning+Developer;Red+Teaming;Ethical+Hacking+%7C+OSINT+%7C+Penetration+Testing;Building+Secure+and+Intelligent+Systems" />
 
 </div>
 
