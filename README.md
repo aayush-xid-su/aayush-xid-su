@@ -205,7 +205,7 @@ I believe great software is not only functional—it is **secure, scalable, inte
 | Incident Analysis | Intelligent Systems |
 
 ---
-
+<!-- 
 # Featured Projects
 
 <details>
@@ -407,7 +407,7 @@ An intelligent vision assistant integrating OCR, object detection, speech synthe
 - AI Assistant
 - Accessibility Tools
 
-</details>
+</details> -->
 
 # Achievements
 
@@ -431,13 +431,13 @@ An intelligent vision assistant integrating OCR, object detection, speech synthe
 <img src="https://img.shields.io/badge/Deloitte-Cyber%20Job%20Simulation-6D28D9?style=for-the-badge&logo=deloitte&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/ANZ-Cyber%20Security%20Management-5B21B6?style=for-the-badge"/>
-<br>
+
 <img src="https://img.shields.io/badge/Tata-Cybersecurity%20Analyst-4F46E5?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Mastercard-Cybersecurity%20Simulation-7C3AED?style=for-the-badge&logo=mastercard&logoColor=white"/>
 
 
-# Coding Profiles
+<!-- # Coding Profiles
 
 <div align="center">
 
@@ -459,7 +459,7 @@ An intelligent vision assistant integrating OCR, object detection, speech synthe
 
 </div>
 
----
+--- -->
 
 # GitHub Analytics
 
@@ -563,9 +563,7 @@ learning:
 
 building:
   - Cyber IDS SOC
-  - MAYA NETRA AI
-  - DRISHYA AI
-  - AYUVAN
+  - Email Threat Analyser 
   - Cybercrime Incident Record
   - Secure ESP32 File Transfer
   - Open Source Security Tools
@@ -575,8 +573,6 @@ exploring:
   - Detection Engineering
   - Digital Forensics
   - Red Team Automation
-  - Blue Team Operations
-  - Secure AI Systems
 
 open_to:
   - Cybersecurity Internship
@@ -633,7 +629,7 @@ I'm always open to collaborating on cybersecurity, AI, and open-source projects.
 
 </div>
 
----
+<!-- ---
 
 # Quote
 
@@ -643,7 +639,7 @@ I'm always open to collaborating on cybersecurity, AI, and open-source projects.
 
 </div>
 
----
+--- -->
 
 
 <div align="center">
