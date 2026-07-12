@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="<YOUR_LINKEDIN_URL>">
+<a href="https://www.linkedin.com/in/ayushdas-11am" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/aayush-xid-su">
+<a href="https://github.com/aayush-xid-su" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -76,9 +76,9 @@
 
 # About Me
 
-I'm **Ayush Das**, a passionate **Cybersecurity Engineer**, **AI Developer**, and **Full Stack Developer** dedicated to building secure, intelligent, and scalable software solutions.
+I'm **Ayush Das**, a passionate **Cybersecurity Engineer**, and **AI Developer** dedicated to building secure, intelligent, and scalable software solutions.
 
-My primary interests lie at the intersection of **Cybersecurity**, **Artificial Intelligence**, **Machine Learning**, and **Software Engineering**, where I enjoy transforming complex security challenges into practical and innovative solutions.
+My primary interests lie at the intersection of **Cybersecurity**, **Artificial Intelligence**, and **Machine Learning**, where I enjoy transforming complex security challenges into practical and innovative solutions.
 
 My journey began with ethical hacking, bug hunting, and OSINT investigations, eventually expanding into developing real-world cybersecurity products powered by AI and modern software engineering practices.
 
@@ -92,20 +92,17 @@ I believe great software is not only functional—it is **secure, scalable, inte
 - Cybersecurity
 - Penetration Testing
 - Threat Intelligence
-- Secure Software Development
+- Secure Software Testing
 - Web Security
 - Network Security
-- Computer Vision
+- Computer Vision Security
 - IoT Security
 - Cloud Computing
-- DevOps
 
 
 ## What I Do
 
 ✔ Build AI-powered cybersecurity solutions
-
-✔ Develop scalable full stack applications
 
 ✔ Perform vulnerability assessments
 
@@ -193,23 +190,20 @@ I believe great software is not only functional—it is **secure, scalable, inte
 | Computer Vision | Intermediate | Image Analysis, Detection Models |
 | Full Stack Development | Advanced | Flask, JavaScript, Node.js, Modern Web Applications |
 | Data Analytics | Intermediate | Power BI, Excel, Data Visualization |
-| Software Engineering | Advanced | Secure Development, API Design, Scalable Systems |
-
 ---
 
 # Core Competencies
 
-| Cybersecurity | Artificial Intelligence | Development |
-|---------------|-------------------------|-------------|
-| Ethical Hacking | Machine Learning | Full Stack Development |
-| Penetration Testing | Deep Learning | REST APIs |
-| Web Security | Predictive Analytics | Backend Development |
-| Network Security | AI Automation | Frontend Development |
-| Threat Intelligence | Computer Vision | Database Design |
-| OSINT | Data Science | Secure Coding |
-| Incident Analysis | Intelligent Systems | Cloud Deployment |
+| Cybersecurity | Artificial Intelligence |
+|---------------|-------------------------|
+| Ethical Hacking | Machine Learning |
+| Penetration Testing | Deep Learning |
+| Web Security | Predictive Analytics | 
+| Network Security | AI Automation |
+| Threat Intelligence | Computer Vision | 
+| OSINT | Data Science |
+| Incident Analysis | Intelligent Systems |
 
----
 ---
 
 # Featured Projects
